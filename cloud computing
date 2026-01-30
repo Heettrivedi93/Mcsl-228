@@ -194,3 +194,142 @@ If you want, I can:
 
 
   
+No worries 👍
+This is a **lab + theory** question. I’ll show **how to write the answer properly for exams**, with clear steps and headings. You can copy this as-is.
+
+---
+
+## SECTION–A
+
+### (Cloud Computing Lab)
+
+---
+
+## 1. (a) Using Google Docs to Create a Document on Cloud Computing
+
+### Aim
+
+To create a document using **Google Docs** containing information about **Cloud Computing**, store it on **Google Drive**, and provide **view permission**.
+
+---
+
+### Steps to Create the Document in Google Docs
+
+1. Open a web browser and go to **[https://docs.google.com](https://docs.google.com)**.
+2. Sign in using your **Google account**.
+3. Click on **Blank Document**.
+4. Type the **title**:
+   **“Cloud Computing”**
+   Apply **Heading 1** style.
+5. Add the following content with proper headings:
+
+#### Introduction (Heading 2)
+
+Cloud computing is the delivery of computing services such as servers, storage, databases, networking, software, and analytics over the internet.
+
+#### Types of Cloud Computing (Heading 2)
+
+* Public Cloud
+* Private Cloud
+* Hybrid Cloud
+
+#### Advantages of Cloud Computing (Heading 2)
+
+* Cost efficiency
+* Scalability
+* High availability
+* Security
+
+6. To insert **page numbers**:
+
+   * Click **Insert → Page numbers**
+   * Select the preferred format.
+7. Rename the document (top-left corner) as **Cloud Computing Document**.
+
+---
+
+### Steps to Store the Document on Google Drive
+
+* Google Docs automatically saves the document to **Google Drive**.
+* The document will be available in **My Drive**.
+
+---
+
+### Steps to Provide View Permission
+
+1. Click on the **Share** button.
+2. Under **General Access**, select **Anyone with the link**.
+3. Choose **Viewer** permission.
+4. Click **Copy link** and then **Done**.
+
+---
+
+### Result
+
+A document on cloud computing was successfully created using Google Docs, stored in Google Drive, and shared with view permission.
+
+---
+
+---
+
+## 1. (b) Cloud Services Provided by AWS and Steps to Set Up an EC2 Instance
+
+---
+
+## List of Cloud Services Provided by AWS
+
+1. Amazon EC2 – Virtual servers
+2. Amazon S3 – Cloud storage
+3. Amazon RDS – Managed databases
+4. AWS Lambda – Serverless computing
+5. Amazon VPC – Networking
+6. Amazon CloudWatch – Monitoring
+7. AWS IAM – Identity and access management
+8. Amazon Elastic Load Balancer
+9. Amazon DynamoDB
+10. Amazon SNS
+
+---
+
+## Steps to Set Up an Amazon EC2 Instance
+
+1. Open a web browser and go to **[https://aws.amazon.com](https://aws.amazon.com)**.
+2. Sign in to the **AWS Management Console**.
+3. Click on **Services → EC2**.
+4. Click **Launch Instance**.
+5. Choose an **Amazon Machine Image (AMI)** (e.g., Amazon Linux).
+6. Select an **Instance Type** (e.g., t2.micro).
+7. Configure instance details.
+8. Add storage as required.
+9. Configure security group (allow SSH/HTTP).
+10. Review and click **Launch**.
+11. Create or select a **key pair**.
+12. Click **Launch Instance**.
+
+---
+
+### Result
+
+An EC2 instance was successfully launched using AWS.
+
+---
+
+## ✅ Final Tip for Exams
+
+* Write **Aim → Steps → Result** for lab questions
+* Use **headings and bullet points**
+* Keep language simple and clear
+
+If you want, I can also:
+
+* Convert this into **short-answer format**
+* Make it **more diagram-oriented**
+* Adjust it for **5-mark / 10-mark patterns** 😊
+
+
+
+
+
+
+
+==================================================
