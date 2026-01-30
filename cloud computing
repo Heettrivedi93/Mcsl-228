@@ -1,0 +1,196 @@
+Sure 🙂 I’ll solve it **properly and clearly**, just like an exam-ready answer, and also show the **Google Sheets formulas**.
+
+---
+
+## Step 1: Create the Spreadsheet Structure (Google Sheets)
+
+Enter the following **headings in Row 1**:
+
+| A    | B            | C  | D  | E   | F          |
+| ---- | ------------ | -- | -- | --- | ---------- |
+| Name | Basic Salary | DA | PF | TAX | Net Salary |
+
+---
+
+## Step 2: Enter Given Data
+
+| Name | Basic Salary |
+| ---- | ------------ |
+| ABC  | 50,000       |
+| XYZ  | 25,000       |
+| DEF  | 75,000       |
+
+(Enter these in rows 2, 3, and 4)
+
+---
+
+## Step 3: Apply the Given Formulas
+
+### 1️⃣ DA (20% of Basic Salary)
+
+**Formula (Cell C2):**
+
+```
+=B2*20%
+```
+
+Copy this formula down to C3 and C4.
+
+---
+
+### 2️⃣ PF Calculation
+
+* 10% if Basic Salary ≤ 30,000
+* 12% if Basic Salary > 30,000
+
+**Formula (Cell D2):**
+
+```
+=IF(B2<=30000,B2*10%,B2*12%)
+```
+
+Copy this down to D3 and D4.
+
+---
+
+### 3️⃣ TAX Calculation
+
+* 10% if Basic Salary < 50,000
+* 15% if Basic Salary ≥ 50,000
+
+**Formula (Cell E2):**
+
+```
+=IF(B2<50000,B2*10%,B2*15%)
+```
+
+Copy this down to E3 and E4.
+
+---
+
+### 4️⃣ Net Salary Formula
+
+**Net Salary = Basic Salary + DA + PF – TAX**
+
+**Formula (Cell F2):**
+
+```
+=B2+C2+D2-E2
+```
+
+Copy this down to F3 and F4.
+
+---
+
+## Step 4: Final Calculated Sheet
+
+| Name | Basic Salary | DA     | PF    | TAX    | Net Salary |
+| ---- | ------------ | ------ | ----- | ------ | ---------- |
+| ABC  | 50,000       | 10,000 | 6,000 | 7,500  | 58,500     |
+| XYZ  | 25,000       | 5,000  | 2,500 | 2,500  | 30,000     |
+| DEF  | 75,000       | 15,000 | 9,000 | 11,250 | 87,750     |
+
+---
+
+## ✅ Conclusion
+
+The spreadsheet successfully calculates **DA, PF, TAX, and Net Salary** using conditional formulas in Google Sheets. This solution follows all given rules and is suitable for practical exams and assignments.
+
+If you want, I can also:
+
+* Format it for **marks scoring**
+* Add **screenshots guidance**
+* Convert it into **Excel format**
+
+
+
+
+
+
+
+
+
+
+
+==========================================
+
+
+Got it 👍
+This is a **theory question**, so the best way to solve it is to write a **clear, well-structured answer** with headings and bullet points. Below is a **proper, exam-ready solution** you can directly write.
+
+---
+
+## SECTION-A
+
+### (Cloud Computing Lab)
+
+### (b) Features of YouTube as a Cloud Service, Steps to Upload an Educational Video, and Settings to Make It Public
+
+---
+
+## 1️⃣ Features of YouTube as a Cloud Service
+
+YouTube is a cloud-based video-sharing platform that provides the following features:
+
+1. **Cloud Storage** – Videos are stored online without using local storage.
+2. **On-Demand Access** – Videos can be accessed anytime from anywhere using the internet.
+3. **Scalability** – Supports millions of users and videos without performance issues.
+4. **Video Streaming** – Allows smooth playback of videos without downloading.
+5. **Content Sharing** – Users can share videos using links or embeds.
+6. **Automatic Video Processing** – Converts videos into multiple resolutions automatically.
+7. **User Management** – Allows creators to manage channels, playlists, and subscribers.
+8. **Security & Privacy Controls** – Provides options like Public, Private, and Unlisted videos.
+9. **Analytics** – Shows views, watch time, and audience engagement.
+10. **Free Service** – Uploading and viewing videos is free.
+
+---
+
+## 2️⃣ Steps to Upload an Educational Video on YouTube
+
+1. Open a web browser and go to **[www.youtube.com](http://www.youtube.com)**.
+2. **Sign in** using your Google account.
+3. Click on the **Create (+)** button at the top right corner.
+4. Select **Upload Video**.
+5. Click **Select Files** and choose your educational video from the computer.
+6. Enter the **Title** and **Description** of the video.
+7. Choose the **Audience** (e.g., “No, it’s not made for kids”).
+8. Add **Tags** (optional) to improve search visibility.
+9. Click **Next** until you reach the visibility settings.
+10. Click **Publish** to upload the video.
+
+---
+
+## 3️⃣ Appropriate Settings to Make the Video Public
+
+To make the video visible to everyone:
+
+1. Set **Visibility** to **Public**.
+2. Ensure the video has a **clear title and description**.
+3. Select an appropriate **Thumbnail**.
+4. Disable restrictions unless necessary.
+5. Enable **Comments** (optional) for interaction.
+6. Click **Publish**.
+
+---
+
+## ✅ Conclusion
+
+YouTube is a powerful cloud service that allows users to upload, store, and share educational videos easily. By using proper upload steps and selecting public visibility settings, educational content can be shared globally.
+
+---
+
+If you want, I can:
+
+* Shorten this for **5-mark answers**
+* Make it **more lab-oriented**
+* Convert it into **handwritten-style notes** 😊
+
+
+
+
+=======================================================
+
+
+
+
+  
